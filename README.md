@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Laurent
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=brightgreen)
+![Profile Image](https://github.com/Laurent45.png)
 
 ## About Me 🚀
 
@@ -16,8 +16,7 @@ After serving in the military for 5 years, I dedicated 3 years to studying pharm
 
 ## 🤝 Connect with Me
 
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🐦 [Twitter](https://twitter.com/your-twitter-handle)  
+🌐 [LinkedIn](https://www.linkedin.com/in/frederick1)  
 
 Feel free to follow me or reach out if you share similar interests or just want to connect. I'm always excited about discovering new technologies and communities!
 
