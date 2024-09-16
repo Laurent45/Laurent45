@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Laurent
 
-![Profile Image](https://github.com/Laurent45.png)
-
 ## About Me 🚀
 
 
