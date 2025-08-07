@@ -1,13 +1,5 @@
 # 👋 Hello, I'm Laurent
 
-## About Me 🚀
-
-
-## 🌱 Learning & Growing
-
-👨‍🎓 Completed a 1-year Java formation  
-🏫 Studying at 42 School - Exploring C, C++, Kotlin, JavaScript, Python, and more  
-🚀 Passionate about discovering new technologies and communities  
 
 ## 🤝 Connect with Me
 
